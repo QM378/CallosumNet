@@ -2,7 +2,7 @@
 
 **Unlearning on Spatio-Temporal Graphs through Subgraph Virtual Edge Reconstruction**
 
-CallosumNet is a divide-and-conquer framework for spatio-temporal graph unlearning, biologically inspired by the corpus callosum structure. It partitions a spatio-temporal graph into enhanced subgraphs, stitches them via a lightweight meta-graph, and enables exact (100%) node unlearning by retraining only the affected subgraph—without touching the rest.
+CallosumNet is a partition-and-integrate framework for spatio-temporal graph unlearning, biologically inspired by the corpus callosum structure. It partitions a spatio-temporal graph into enhanced subgraphs, stitches them via a lightweight meta-graph, and enables exact (100%) node unlearning by retraining only the affected subgraph—without touching the rest.
 
 > **Paper:** *Unlearning on Spatio-Temporal Graphs through Subgraph Virtual Edge Reconstruction* (Under review at PVLDB 2026)
 
